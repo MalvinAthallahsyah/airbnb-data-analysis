@@ -11,3 +11,4 @@ Objectives
 6. Where are listings most concentrated geographically?
 7. How does cancellation policy relate to price?
 8. Are newer properties more expensive?
+---
