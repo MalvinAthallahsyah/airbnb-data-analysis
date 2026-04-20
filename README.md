@@ -1,6 +1,6 @@
 **Airbnb New York City – Data Analytics Mini-Project**
-Exploratory data analysis of 102,000+ Airbnb listings in New York City, exploring pricing patterns, room types, host behaviour, and geographic trends
 ---
+Exploratory data analysis of 102,000+ Airbnb listings in New York City, exploring pricing patterns, room types, host behaviour, and geographic trends
 Objectives
 
 1. Which borough has the highest average listing price?
