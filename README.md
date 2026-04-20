@@ -3,11 +3,11 @@ Exploratory data analysis of 102,000+ Airbnb listings in New York City, explorin
 ---
 Objectives
 
-Which borough has the highest average listing price?
-Which room type is most popular and most expensive?
-Does price affect the number of reviews a listing receives?
-Is instant booking correlated with higher availability?
-Does host verification affect pricing?
-Where are listings most concentrated geographically?
-How does cancellation policy relate to price?
-Are newer properties more expensive?
+1. Which borough has the highest average listing price?
+2. Which room type is most popular and most expensive?
+3. Does price affect the number of reviews a listing receives?
+4. Is instant booking correlated with higher availability?
+5. Does host verification affect pricing?
+6. Where are listings most concentrated geographically?
+7. How does cancellation policy relate to price?
+8. Are newer properties more expensive?
